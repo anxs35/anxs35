@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anxs35
+- 👋 Hi, I’m Anas Ahmad
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on website developer
 - 📫 How to reach me ...
 
